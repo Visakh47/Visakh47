@@ -21,7 +21,8 @@ I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast 
 
 
 <br />
- ---
+
+---
 
 ### Technologies & Skills <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> :
 
@@ -40,14 +41,15 @@ I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast 
 
 
 <br />
+
+
+
+
 ---
 
+### GitHub Stats <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> 
 
-
-
-  ### GitHub Stats <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> 
-
-  <img align="left" alt="Visakh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Visakh47&show_icons=true&hide_border=true" />
+<img align="left" alt="Visakh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Visakh47&show_icons=true&hide_border=true" />
 
 
 
