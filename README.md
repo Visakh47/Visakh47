@@ -1,9 +1,9 @@
-### Hi there, I'm Visakh - [website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vbinc-dev.netlify.app)
+### Hi there, I'm Visakh  👋
 
 
-## I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intiuitive and undestandable manner. 
+
+
+# I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intiuitive and undestandable manner. 
 
 Couple Of Things About Me : 
 - 🌱 I'm always looking forward to learning new technologies that enthrall me !
