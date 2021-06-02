@@ -1,6 +1,6 @@
 ## Hi there, I'm Visakh  👋
 
-I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intiuitive and undestandable manner. 
+I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intuitive and understandable manner. 
 
 ---
 
