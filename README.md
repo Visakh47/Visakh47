@@ -46,8 +46,8 @@ I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast 
 
 ### GitHub Stats <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> 
 
-<img align="left" alt="Visakh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&hide_border=false&theme=radical" />
-![Visakh's github stats](https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&theme=radical)
+<!-- <img align="left" alt="Visakh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&hide_border=false&theme=radical" /> -->
+![Visakh's github stats](https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&theme=radical&hide_border=false)
 
 
 
