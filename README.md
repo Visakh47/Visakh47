@@ -2,7 +2,7 @@
 
 I'm a Software Engineering Graduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intuitive and understandable manner. 
 
-![](https://komarev.com/ghpvc/?username=Visakh47&color=34568B&style=flat-square)<br>
+<br>
 ---
 
 ### Couple Of Things About Me : 
