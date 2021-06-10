@@ -14,10 +14,10 @@ I'm a Software Engineering undergraduate Student , a Budding Data Science Enthus
 
 ### Connect with me:
 
-[<img align="left" alt="Visakh's Web" width="40" height="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Visakh | Blog" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][blog]
-[<img align="left" alt="Visakh | LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Visakh | Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Visakh's Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Visakh | Blog" width="22px  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][blog]
+[<img align="left" alt="Visakh | LinkedIn" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Visakh | Instagram" width="22px  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
