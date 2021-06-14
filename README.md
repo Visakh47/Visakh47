@@ -41,7 +41,7 @@ I'm a Software Engineering undergraduate Student , a Budding Data Science Enthus
 
 <!-- <img align="left" alt="Visakh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&hide_border=false&theme=radical" /> -->
 ![Visakh's github stats](https://github-readme-stats.vercel.app/api?username=Visakh47&show_icons=true&theme=radical&hide_border=false)
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=visakh47&theme=radical&show_icons=true&hide_border=false" alt="visakh47" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=visakh47&theme=radical&show_icons=true&hide_border=false" alt="visakh47" /></p> -->
 
 
 
