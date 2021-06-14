@@ -1,14 +1,15 @@
 ## Hi there, I'm Visakh  👋  <img align="right" alt="Visakh's GitHub Stats" src="https://komarev.com/ghpvc/?username=Visakh47&style=flat-square&color=34568B&label=P+R+O+F+I+L+E+|+V+I+E+W+S" />
 
-I'm a Software Engineering undergraduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intuitive and understandable manner. Reboot is the best functionality in Windows, you can use it to boot to linux - That's how i use windows.
+I'm a Software Engineering undergraduate Student , a Budding Data Science Enthusiast & A Full Stack Developer. I build analytical ML based solutions and with my extensive background in front-end web development , I aim to visualize and communicate these insights and conlusions in a efficient , intuitive and understandable manner. 
 
 ---
 
 ### Couple Of Things About Me : 
 - 🌱 I'm always looking forward to learning new technologies that enthrall me !
 - 👯 I love collaborating with other developers on innovative projects  
+- 🐧 Reboot is the best functionality in Windows, you can use it to boot to linux - That's how i use windows.
 - 🥅 2021 Goals: Work on learning new technologies to enhance my skilset by implementing them with a unique outlook.
-- ⚡ Fun fact: I love traveling , reading fiction and watching engaging television shows. 
+- ⚡ Fun fact: When I wrote this code, only God and I understood what I did. Now only God knows. 
 
 ---
 
